@@ -1,0 +1,293 @@
+.s-1 {
+    margin-top: 57px;
+    margin-bottom: 75px;
+}
+
+.container {
+    max-width: 1145px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.infobox {
+    margin-bottom: 57px;
+}
+
+.infobox h5 {
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #5863E3;
+    margin-bottom: 7px;
+}
+ 
+.infobox h1 {
+    font-family: Helvetica;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+    color: black;
+    max-width:371px;
+    width: 100%;
+}
+
+.myformdiv {
+    width: 100%;
+    
+}
+
+.myforms {
+    display: flex;
+}
+
+.textareadiv {
+    max-width: 756px;
+    width: 100%;
+    height: 298px;
+    margin-right: 20px;
+}
+textarea {
+    height: 298px;
+    width: 100%;
+    resize: none;
+    background-color: #F8F8F8;
+    padding: 20px;
+    border: 2px solid #80808098;   
+}
+
+.inputdiv {
+    height: 298px;
+    max-width: 370px;
+    width: 100%;
+    margin-bottom: 51px;
+}
+
+::placeholder {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;     
+}
+.inputdiv input  {
+    max-width:370px ;
+    width: 100%;
+    height: 60px;
+    background-color: #F8F8F8;
+    border: 2px solid #80808098;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+#submit {
+    max-width:370px ;
+    width: 100%;
+    height: 59px;
+    background-color: #5968F4;
+    color: #FBFBFF;
+    border: none;
+    cursor: pointer;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px; 
+    
+}
+.cardwrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card-1 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.round-1 {
+    width:70px ;
+    height:70px ;
+    border-radius: 50%;
+    background-color:#5968F4 ;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.card-1 h4 {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    color: #4E4D54;
+    margin-bottom: 8px;
+}
+
+.card-1 a {
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 8px;
+}
+
+.s-2 {
+    margin-bottom: 40px;
+}
+.infobox2 {
+    margin-bottom: 53px;
+}
+.infobox2 h5 {
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #5863E3;
+    margin-bottom: 7px;
+}
+ 
+.infobox2 h1 {
+    font-family: Helvetica;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+    color: black;
+    max-width:548px;
+    width: 100%;
+}
+.photowrapper {
+    max-width: 1550px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #000;
+    width: 100%;
+    min-height: 372px;
+    height: 100%;
+}
+.footerdiv {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ft1 {
+    max-width: 295px;
+    width: 100%;
+    margin-right: 210px;
+}
+.ft1 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 23px;
+    margin-top: 63px;
+    
+}
+
+.ft1 h5 {
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    max-width: 295px;
+    width: 100%;
+    margin-bottom: 23px;
+    
+}
+.ft2 {
+    max-width: 120px;
+    width: 100%;
+    margin-top: 63px;
+    margin-right: 85px;
+
+}
+.ft2 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;   
+    margin-bottom: 32px;
+}
+.ft2 li {
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+.ft3 {
+    max-width: 100px;
+    width: 100%;
+    margin-top: 63px;
+    margin-right: 85px;
+    
+  
+}
+.ft3 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;   
+    margin-bottom: 32px;
+}
+.ft3 li {
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 9px;
+}
+
+.ft4 {
+    max-width: 240px;
+    width: 100%;
+    margin-top: 63px;   
+}
+
+.ft4 h2 {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;   
+    margin-bottom: 32px;
+}
+
+.ft4 li {
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 9px;
+    display: inline-block;
+}
+
+.divz {
+    display: flex;
+
+}
+.iconsdiv {
+    display: flex;
+    flex-direction: column;
+    margin-right: 14px;
+}
+.iconsdiv i {
+    margin-bottom: 9px;
+}
